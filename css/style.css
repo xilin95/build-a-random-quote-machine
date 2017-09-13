@@ -1,0 +1,25 @@
+button {
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+  background-color: yellow;
+}
+
+.quote-box {
+  display: table;
+  border-radius: 20px;
+  background-color: gray;
+  padding: 40px 50px;
+}
+
+.quote-text {
+  color: white;
+  font-size: 2em;
+}
+
+.author-text {
+  color: white;
+  font-size: 1.5em;
+  text-align: right;
+  margin-top: 20px;
+}
